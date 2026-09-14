@@ -1,5 +1,7 @@
+#La salud mental es un tema a considerar# 
+
 import pandas as pd
-#print ('hola mundo')#
+
 df=pd.read_csv("AI_Data_Analyst\INEGI_suicidio_Mexico_2022_2024.csv")
 print(df.head())
 print("\nCOLUMNAS:")
