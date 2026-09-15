@@ -1,5 +1,4 @@
 # 🧠 Suicide Data Analysis in Mexico | MCP + Data Analytics
-# 🧠 Suicide Data Analysis in Mexico | MCP + Data Analytics
 
 ## 📌 About the Project
 
